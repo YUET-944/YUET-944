@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MYK-944  
+- 👋 Hi, I’m @MUET-944  
 - 👀 I’m interested in **DevOps, Full-Stack Development, and Automation**  
 - 🌱 I’m currently learning **DevOps through the Career Launchpad Program**  
 - 💞️ I’m looking to collaborate on **open-source DevOps projects, automation tools, and web development**  
