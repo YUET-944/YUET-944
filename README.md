@@ -31,9 +31,13 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Game
+## 🌈 3D GitHub Contribution Graph
 <p align="center">
-  <img src="https://github.com/YUET-944/YUET-944/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/YUET-944/YUET-944/assets/your-image-id" width="100%" alt="3D Contribution Graph Animation"/>
+</p>
+
+<p align="center">
+  <i>Visualizing consistency, creativity, and growth through every commit 🚀</i>
 </p>
 
 ---
