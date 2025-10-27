@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-👋 Proud son of Pakistan 🇵🇰  
+👋 Proud son of Inayat-Ur-Rehman  
 🎓 BS Computer Science Student at [UET Mardan](https://uetmardan.edu.pk/)  
 💻 Passionate **Software Developer** | **Database Designer** | **UI/UX Enthusiast**  
 
@@ -31,9 +31,9 @@
 
 ---
 
-## 🌈 3D GitHub Contribution Graph
+## 🌈 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github.com/YUET-944/YUET-944/assets/your-image-id" width="100%" alt="3D Contribution Graph Animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YUET-944&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YUET-944&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUET-944&layout=compact&theme=tokyonight" height="165"/>
