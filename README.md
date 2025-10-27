@@ -1,15 +1,22 @@
-# 👋 Hi, I'm Muhammad Younas Khan
+<!-- Animated Typing Effect -->
+<p align="center">
+  <a href="https://github.com/YUET-944">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=👋+Assalam-o-Alaikum!;I'm+Muhammad+Younas+Khan;Welcome+to+my+GitHub+Profile!">
+  </a>
+</p>
 
+---
+
+# 💫 About Me
 🎓 **BS Computer Science Student** at [University of Engineering and Technology, Mardan](https://uetmardan.edu.pk/)  
-💻 **Aspiring Software Developer** | Passionate about **Backend Development**, **Databases**, and **UI/UX Design**  
+💻 **Aspiring Software Developer** passionate about **Backend Development**, **Databases**, and **UI/UX Design**  
 📍 From Swat, Pakistan  
 
 ---
 
-## 🚀 About Me
-I'm a dedicated Computer Science student focused on building reliable and efficient software systems.  
-I love exploring how things work — from algorithms and data structures to complete web and database-driven applications.  
-Currently, I'm improving my **Python** and **SQL** skills while working on real-world projects that help me grow as a developer.
+## 🚀 What I Do
+I’m a curious and hardworking developer who loves turning ideas into functional, user-friendly systems.  
+I’m currently sharpening my **Python**, **C++**, and **SQL** skills through hands-on projects that connect theory with real-world solutions.
 
 ---
 
@@ -24,26 +31,19 @@ Currently, I'm improving my **Python** and **SQL** skills while working on real-
 ---
 
 ## 🧩 Projects
-Here are some of my favorite projects:
-
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| 🏥 **Pharmacy Management System** | Modular system with user login, inventory, billing, and reporting using Python & MySQL | Python, MySQL |
-| 💼 **Job Portal** | Database-driven job portal backend for job postings and applicant management | SQL |
-| 🏫 **Hostel Management System** | Command-line project to manage hostel records and room allocation | C++ |
-| 💳 **ATM System** | Object-oriented ATM simulation project | C++ |
-| 🧮 **Sliding Window & Linked List Toolkit** | DSA-based problem-solving toolkit with multiple algorithmic operations | C++ |
+| 🏥 **Pharmacy Management System** | Modular system with login, inventory, billing & reporting | Python, MySQL |
+| 💼 **Job Portal** | Database-driven portal for job postings & applications | SQL |
+| 🏫 **Hostel Management System** | Console-based hostel record manager | C++ |
+| 💳 **ATM System** | Object-oriented ATM simulation | C++ |
+| 🧮 **Sliding Window & Linked List Toolkit** | Algorithms toolkit demonstrating DSA concepts | C++ |
 
 ---
 
 ## 🧾 Education
-**Bachelor of Science in Computer Science**  
-University of Engineering and Technology, Mardan  
-*(Expected Graduation: May 2027)*
-
-**Intermediate in Computer Science (ICS)**  
-Government Post Graduate Jahanzeb College, Swat  
-*(2021 – 2023)*
+🎓 **BS Computer Science** — UET Mardan *(Expected: May 2027)*  
+🏫 **Intermediate in Computer Science (ICS)** — Jahanzeb College, Swat *(2021–2023)*  
 
 ---
 
@@ -60,6 +60,10 @@ Government Post Graduate Jahanzeb College, Swat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YUET-944&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUET-944&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YUET-944&theme=tokyonight&hide_border=false" alt="GitHub streak" height="165"/>
 </p>
 
 ---
