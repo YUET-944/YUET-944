@@ -43,6 +43,26 @@
 
 ---
 
+## 🏅 Certifications & Courses
+
+- Microsoft SC-900: Security, Compliance, and Identity Fundamentals  
+- Logic Loomer: Frontend Web Development (React)  
+- Code Alpha: Frontend Development (React)  
+- Python Advanced Training (Completed Projects in OOP & Databases)
+
+## 📚 Currently Learning
+
+- Flutter for mobile app development  
+- Advanced Python & backend development (Flask/FastAPI)  
+- Full-stack project integration with databases & cloud services
+
+## 🎮 Hobbies & Interests
+
+- Gaming & solving coding challenges  
+- Exploring AI & ML trends  
+- Building personal productivity tools  
+- Learning new technologies & frameworks
+
 ## ⚙ Tech Stack & Tools
 
 <p align="center">
@@ -92,6 +112,11 @@
 </p>
 
 ---
+## 💡 Personal Philosophy
+
+*"Write code as if the person maintaining it is a violent psychopath who knows where you live."* – John Woods  
+*"Focus on learning, not just earning."*  
+*"Consistency beats talent when talent doesn’t work consistently."*
 
 ## 🎮 Fun Fact Zone
 
