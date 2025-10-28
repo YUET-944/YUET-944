@@ -6,7 +6,7 @@
 </p>
 
 ## <p align="center">
-  <img src="https://github.com/YUET-944/YUET-944/raw/main/about_me.gif" width="50" style="vertical-align: middle;"/>  About Me
+  <img src="https://github.com/YUET-944/YUET-944/raw/main/about_me.gif" width="50" style="vertical-align: middle;"/>  **About Me** 
 </p>
 
 <p align="center">
