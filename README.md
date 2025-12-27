@@ -15,6 +15,7 @@
 
 🎓 *BS Computer Science Student* at [UET Mardan](https://uetmardan.edu.pk/)  
 💻 Passionate *Software Developer, **Database Designer, and **ML Enthusiast*  
+👑 CEO of **AlgoHub**, a software house delivering custom software solutions  
 🇵🇰 Proud son of Pakistan  
 
 💬 Skilled in *C++, **Python, **SQL, **Django, **Web Development, and **OOP*  
@@ -35,9 +36,11 @@
 | 💼 *Job Portal (SQL Backend)* | MySQL, Database Design, SQL | Backend system for managing job listings & applications. |
 | 🏠 *Hostel Management System (Django)* | Python, Django, SQLite, HTML/CSS | Full-stack system for student registration, room management & reports. |
 | 💊 *Pharmacy Management System* | Python, MySQL, Tkinter, OOP | Modular desktop app for inventory, billing & reporting. |
-| 🧮 *ATM System (OOP)* | C++, OOP, File Handling | Simulated real-world ATM functionalities. |
-| 🎓 *Student Admission Data Manager* | C, File I/O | Managed and stored student admission and academic data. |
-| ☁ *Digital Transformation Plan – Sam’s Scoops* | Networking, Cloud Computing, Business Strategy | Proposed digital solutions to modernize a small business’s operations. |
+| ☁ *Digital Transformation Plan – Sam’s Scoops* | Networking, Cloud Computing, Business Strategy | Proposed digital solutions to modernize a small business’s operations. |                                                                                                  
+| 🔐 **OTP Authentication Service Dashboard** | Backend APIs, Authentication Systems, Secure Admin UI | Developer-focused OTP service dashboard featuring environment switching, real-time service status, and security-first design inspired by Stripe and Auth0.|
+| 🏥 **Clinic Management System**             | PHP / Vue.js, MySQL, UI/UX Design                     | End-to-end clinic system with doctor and staff roles, appointment scheduling, digital prescriptions, patient history, and financial analytics including profit and loss tracking. |
+| 🎨 **Professional UI/UX Design Projects**   | Figma, Design Systems                                 | Designed modern, production-ready dashboards and application interfaces with emphasis on clarity, usability, and real-world workflows.|
+| 🧠 **Machine Learning Practice Projects**   | Python, Pandas, NumPy, Scikit-learn                   | Hands-on ML projects focused on data preprocessing, model training, evaluation, and practical problem-solving.|
 
 ---
 
@@ -49,10 +52,9 @@
 - Python Advanced Training (Completed Projects in OOP & Databases)
 
 ## 📚 Currently Learning
-
-- Flutter for mobile app development  
-- Advanced Python & backend development (Flask/FastAPI)  
-- Full-stack project integration with databases & cloud services
+ 
+- Advanced Python  
+- Full-stack project integration with cloud services
 
 ## 🎮 Hobbies & Interests
 
