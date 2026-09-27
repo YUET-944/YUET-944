@@ -384,38 +384,33 @@ My community objectives include:
 
 <!-- ===================================================== -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=YUET-944&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=10B981&text_color=FFFFFF"
-    alt="Muhammad Younas Khan GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUET-944&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"
-    alt="Most used programming languages"
-  />
+  <a href="https://github.com/YUET-944">
+    <img
+      src="https://streak-stats.demolab.com?user=YUET-944&theme=transparent&hide_border=true&ring=00BFFF&fire=10B981&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=94A3B8"
+      alt="Muhammad Younas Khan GitHub contribution streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com?user=YUET-944&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=10B981&currStreakLabel=00BFFF"
-    alt="GitHub contribution streak"
-  />
+  <a href="https://github.com/YUET-944?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Public_Repositories-Explore-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore public repositories"
+    />
+  </a>
+  <a href="https://github.com/YUET-944?tab=stars">
+    <img
+      src="https://img.shields.io/badge/Developer_Profile-Follow-10B981?style=for-the-badge&logo=github&logoColor=white"
+      alt="Follow GitHub profile"
+    />
+  </a>
 </p>
 
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YUET-944&bg_color=0D1117&color=00BFFF&line=10B981&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
----
+> GitHub activity reflects ongoing development, documentation improvements, research projects, and open-source collaboration.
 
 ## 🤝 Open to Collaboration
 
